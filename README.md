@@ -1,0 +1,4 @@
+- Instalar e usar a Virtualenv
+- Pip install -r requirements.txt
+- $env:FLASK_APP = "app/__init__.py" (windows)
+- flask run
